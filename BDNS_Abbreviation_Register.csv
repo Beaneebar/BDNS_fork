@@ -10,11 +10,11 @@ actuator - dew point switch,DPSW,IfcUnitaryControlElement,HUMIDISTAT
 actuator - frost protection switch,FPSW,IfcActuator,ELECTRICACTUATOR
 actuator - motorized window operator,WDO,IfcActuator,ELECTRICACTUATOR
 actuator - switch actuator,SWACT,IfcActuator,ELECTRICACTUATOR
-ahu - air handling unit,AHU,IfcUnitaryEquipment,AIRHANDLER
-ahu - dedicated outside air system unit,DOAS,IfcUnitaryEquipment,AIRHANDLER
-ahu - heat recovery unit,HRU,IfcAirToAirHeatRecovery,NOTDEFINED
-ahu - make-up air handler,MAU,IfcUnitaryEquipment,AIRHANDLER
-ahu - roof top unit,RTU,IfcUnitaryEquipment,ROOFTOPUNIT
+air handling unit - air handling unit,AHU,IfcUnitaryEquipment,AIRHANDLER
+air handling unit - dedicated outside air system unit,DOAS,IfcUnitaryEquipment,AIRHANDLER
+air handling unit - heat recovery unit,HRU,IfcAirToAirHeatRecovery,NOTDEFINED
+air handling unit - make-up air handler,MAU,IfcUnitaryEquipment,AIRHANDLER
+air handling unit - roof top unit,RTU,IfcUnitaryEquipment,ROOFTOPUNIT
 air conditioning unit,ACU,IfcUnitaryEquipment,AIRCONDITIONINGUNIT
 air conditioning unit - computer room AC unit,CRAC,IfcUnitaryEquipment,AIRCONDITIONINGUNIT
 air conditioning unit - direct expansion cooling unit,DX,IfcUnitaryEquipment,SPLITSYSTEM
