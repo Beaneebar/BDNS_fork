@@ -1,6 +1,7 @@
 asset_description,asset_abbreviation,ifc_class,ifc_type
-heat pump - cooling buffer,HPCB,IfcUnitaryEquipment,NOTDEFINED
-heat pump - heating buffer,HPHB,IfcUnitaryEquipment,NOTDEFINED
+pipe - water pipe,WP,PDBOadded,PDBOadded
+heat pump - cooling buffer,HPCB,PDBOadded,PDBOadded
+heat pump - heating buffer,HPHB,PDBOadded,PDBOadded
 access control - biometric reader,BIOR,IfcCommunicationsAppliance,SCANNER
 access control - RFID controller,RFIDC,IfcController,NOTDEFINED
 access control - RFID reader,RFIDR,IfcCommunicationsAppliance,SCANNER
